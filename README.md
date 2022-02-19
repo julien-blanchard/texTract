@@ -10,11 +10,18 @@ TexTract provides two main functionalities:
 
 Outputs the 5 previous and and 5 following contextual tokens for every iteration of the input token.
 
-2. **getSummary()**
+2. **Get Summary**
 
 Outputs some very basic statistics for the input token, as well as an array of other noteworthy tokens to explore.
 
 # **How to use texTract**
 
-xx
+1. Open your terminal
+2. Place the textract.py inside a folder
+3. Place any .txt file inside the same folder
+4. Run the textract.py file
+
+# **Example**
+
+TBC
 
