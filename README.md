@@ -4,6 +4,8 @@ Based on an old university project from 2008 and initially designed in Perl, Tex
 
 It was originally meant to be used from the command line to obtain basic insights from various novels in .txt format.
 
+![textract](https://user-images.githubusercontent.com/72625098/155901529-a0379740-a636-4d96-8fb6-69927c731ec4.png)
+
 TexTract provides two main functionalities:
 
 1. **Get context:**
