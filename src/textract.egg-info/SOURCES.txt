@@ -1,0 +1,6 @@
+setup.py
+src/textract.py
+src/textract.egg-info/PKG-INFO
+src/textract.egg-info/SOURCES.txt
+src/textract.egg-info/dependency_links.txt
+src/textract.egg-info/top_level.txt

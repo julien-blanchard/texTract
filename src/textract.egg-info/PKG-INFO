@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: textract
+Version: 0.0.2
+Summary: a lightweight and minimalist python module that takes a .txt file, and provides some context for any given token within the input corpus.
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
